@@ -1,6 +1,6 @@
 # GausAlMunirTushar_Projects_List
-##Front End Development Project
-### Website UI Project
-### React Js Project
-### JavaScript Project
-### Fu
+### Front End Development Projects
+### Website UI Projects
+### React Js Projects
+### JavaScript Projects
+### MERN Stack Projects
